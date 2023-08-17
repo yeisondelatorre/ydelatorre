@@ -1,4 +1,18 @@
 ---
 title: "tutoriales"
+image: teaching.jpg
+about:
+  template: solana
+  links:
+    - icon: whatsapp
+      text: whatspp
+      href: https://wa.link/f4qdb8
+    - icon: github
+      href: https://github.com/yeisondelatorre
 ---
 
+En este segmento observaremos multiples contenidos, cuyo objetivo es alcanzar la autonomía. Los tutoriales presentados son realizados por amor al arte y en beneficio de esta comunidad.
+
+## Primeros pasos con el Power BI
+
+El presente tutotial explica el proceso de descarga e instalación de Power BI, cualquier inquitud o consulta puede dejar los comenatrios (ver tutorial [aquí](https://yeisondelatorre.github.io/class-powerbi.github.io/))

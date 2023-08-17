@@ -33,5 +33,19 @@
     "title": "A cerca de Mí",
     "section": "Mis estudios",
     "text": "Mis estudios\nSoy economista graduado en la Universidad del Magdalena, adelanto mis estudios de post grado en la Universidad del Norte en Economía investigativa y Maestría en Analítica de Datos"
+  },
+  {
+    "objectID": "tutorials.html",
+    "href": "tutorials.html",
+    "title": "tutoriales",
+    "section": "",
+    "text": "En este segmento observaremos multiples contenidos, cuyo objetivo es alcanzar la autonomía. Los tutoriales presentados son realizados por amor al arte y en beneficio de esta comunidad."
+  },
+  {
+    "objectID": "tutorials.html#primeros-pasos-con-el-power-bi",
+    "href": "tutorials.html#primeros-pasos-con-el-power-bi",
+    "title": "tutoriales",
+    "section": "Primeros pasos con el Power BI",
+    "text": "Primeros pasos con el Power BI\nEl presente tutotial explica el proceso de descarga e instalación de Power BI, cualquier inquitud o consulta puede dejar los comenatrios (ver tutorial aquí)"
   }
 ]
