@@ -16,3 +16,9 @@ En este segmento observaremos multiples contenidos, cuyo objetivo es alcanzar la
 ## Primeros pasos con el Power BI
 
 El presente tutotial explica el proceso de descarga e instalación de Power BI, cualquier inquitud o consulta puede dejar los comenatrios (ver tutorial [aquí](https://yeisondelatorre.github.io/class-powerbi.github.io/))
+
+## 
+
+## Mi primer Dashboard con Power BI
+
+para la creación de mi primer Dashboard abordamos datos financieros, lo cual buscamos el informe correcto para presentar el mayor beneficio por fecha, ubicación donde la empresa tiene mayor éxito, pólitica de expansión de productos y mayor rendimiento por segmento. para ello se trabaja con una base de datos que contiene 700 observaciones y 16 variables que describen lo escencial de una empresa. (ver tutorial [aquí](https://yeisondelatorre.github.io/Dashboard-A_financiero.github.io/))

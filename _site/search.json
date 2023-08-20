@@ -47,5 +47,12 @@
     "title": "tutoriales",
     "section": "Primeros pasos con el Power BI",
     "text": "Primeros pasos con el Power BI\nEl presente tutotial explica el proceso de descarga e instalación de Power BI, cualquier inquitud o consulta puede dejar los comenatrios (ver tutorial aquí)"
+  },
+  {
+    "objectID": "tutorials.html#mi-primer-dashboard-con-power-bi",
+    "href": "tutorials.html#mi-primer-dashboard-con-power-bi",
+    "title": "tutoriales",
+    "section": "Mi primer Dashboard con Power BI",
+    "text": "Mi primer Dashboard con Power BI\npara la creación de mi primer Dashboard abordamos datos financieros, lo cual buscamos el informe correcto para presentar el mayor beneficio por fecha, ubicación donde la empresa tiene mayor éxito, pólitica de expansión de productos y mayor rendimiento por segmento. para ello se trabaja con una base de datos que contiene 700 observaciones y 16 variables que describen lo escencial de una empresa. (ver tutorial aquí)"
   }
 ]
